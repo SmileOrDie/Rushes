@@ -1,0 +1,117 @@
+Avec probleme d'indentation :
+C + n
+C + n
+M + f
+space
+M + b
+C + n
+C + n
+C + u
+3
+C + k
+C + p
+C + p
+M + b
+C + y
+M + g
+g
+1
+7
+enter
+M + f
+space
+M + g
+g
+2
+3
+enter
+right-arrow
+enter
+C + x
+h
+M + C + \
+M + %
+M + i	;ou tab
+enter
+M + i
+M + i
+M + i
+enter
+!
+C + x
+h
+M + %
+space
+space
+space
+space
+enter
+M + i
+enter
+!
+C + x
+h
+M + %
+space
+space
+enter
+M + i
+enter
+!
+C + x
+h
+M + x
+delete-trailing-whitespace
+enter
+enter
+C + x
+C + s
+C + x
+C + c
+
+Sans problèmes d'indentation :
+
+C + n
+C + n
+M + f
+space
+M + b
+C + n
+C + n
+C + u
+3
+C + k
+C + p
+C + p
+C + y
+M + g
+g
+1
+7
+enter
+M + f
+space
+M + g
+g
+2
+3
+right-arrow
+enter
+C + x
+h
+M + %
+space
+space
+enter
+M + i
+enter
+C + x
+h
+M + C + \
+delete-trailing-whitespace
+enter
+enter
+C + x
+C + s
+C + x
+C + c
